@@ -1,0 +1,23 @@
+{
+  "date": "2023-01-29",
+  "numero": 1,
+  "nom": "Prix d'Amérique",
+  "partants": [
+    {
+      "numero" : 1,
+      "nom" : "HORSY DREAM"
+    },
+    {
+      "numero" : 2,
+      "nom" : "HOOKER BERRY"
+    },
+    {
+      "numero" : 3,
+      "nom" : "FLAMME DU GOUTIER"
+    },
+    {
+      "numero" : 4,
+      "nom" : "IDAO DE TILLARD"
+    }
+  ]
+}
